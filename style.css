@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.main{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    margin-top: 10%;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    color: brown;
+}
