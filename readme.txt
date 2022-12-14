@@ -1,1 +1,1 @@
-//proje-Chess
+Multiplication table
